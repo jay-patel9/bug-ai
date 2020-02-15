@@ -1,0 +1,11 @@
+************* Module data
+data_file\data.py:9:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+data_file\data.py:10:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+data_file\data.py:19:0: C0304: Final newline missing (missing-final-newline)
+data_file\data.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+data_file\data.py:8:56: E0602: Undefined variable 'iteritems' (undefined-variable)
+data_file\data.py:9:16: E0602: Undefined variable 'ATTACK_WORK_ID_PATTERN' (undefined-variable)
+
+-----------------------------------------------------------------------
+Your code has been rated at -25.00/10 (previous run: -15.00/10, -10.00)
+
